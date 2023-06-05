@@ -1,0 +1,1 @@
+value1 = wave width (default is 50)
