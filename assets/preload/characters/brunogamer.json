@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "brunogamer left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "brunogamer down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "brunogamer up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "brunogamer right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "brunogamer idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/brunogamer",
+	"position": [
+		-470,
+		120
+	],
+	"healthicon": "icon-bruno",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		55,
+		255
+	],
+	"camera_position": [
+		160,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.799999999999999
+}

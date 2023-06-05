@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				33,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "byabura left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "byabura down"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "byabura up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "byabura right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "byabura idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/biabura",
+	"position": [
+		-290,
+		-10
+	],
+	"healthicon": "byabura",
+	"flip_x": true,
+	"healthbar_colors": [
+		135,
+		0,
+		0
+	],
+	"camera_position": [
+		290,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

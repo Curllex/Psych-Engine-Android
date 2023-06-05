@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "brunok left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "brunok down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "brunok up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "brunok right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "brunok idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/brunok",
+	"position": [
+		-10,
+		20
+	],
+	"healthicon": "broto",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		141,
+		1
+	],
+	"camera_position": [
+		150,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

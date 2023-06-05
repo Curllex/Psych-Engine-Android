@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "stumedo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "stumedo down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "stumedo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "stumedo right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "stumedo idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stumedo",
+	"position": [
+		-490,
+		70
+	],
+	"healthicon": "stumedo",
+	"flip_x": false,
+	"healthbar_colors": [
+		23,
+		225,
+		225
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

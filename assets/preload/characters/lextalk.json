@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lextalk idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hey",
+			"fps": 16,
+			"name": "lextalk hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lextalk",
+	"position": [
+		-300,
+		-10
+	],
+	"healthicon": "nadakkk",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-70,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

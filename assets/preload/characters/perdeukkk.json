@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "perdeukkk idleum"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "perdeukkk confirma"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "perdeukkk idledois",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/perdeukkk",
+	"position": [
+		-600,
+		20
+	],
+	"healthicon": "nada",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		360,
+		370
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}
